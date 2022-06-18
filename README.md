@@ -4,16 +4,16 @@
 
 ## 0. 概要
 
-1. [バージョン管理システム](#1-vcs)
-2. [Gitとは](#2-git)
-   1. [Repository](#i-repository)
-   2. [Commit](#ii-commit)
-   3. [Branch](#iii-branch)
-   4. [Tag](#iv-tag)
-3. [GitHubとは](#3-github)
-   1. [Issue](#i-issue)
-   2. [Pull request](#ii-pull-request)
-      1. [Review](#a-review)
+1. [バージョン管理システム](#1-vcs-バージョン管理システム)
+2. [Gitとは](#2-gitとは)
+   1. [Repository](#i-repository-リポジトリ)
+   2. [Commit](#ii-commit-コミット)
+   3. [Branch](#iii-branch-ブランチ)
+   4. [Tag](#iv-tag-タグ)
+3. [GitHubとは](#3-githubとは)
+   1. [Issue](#i-issue-イシュー)
+   2. [Pull request](#ii-pull-request-プルリクエスト)
+      1. [Review](#a-review-レビュー)
 
 ## 1. VCS バージョン管理システム
 
