@@ -111,8 +111,7 @@ GitHubは機能豊富なサービスだが、以上はよく使われる機能�
 ## 4. デモ
 
 - [職務経歴書](https://github.com/j-ting1/resume)
-
-次何観ます？の共同リポジトリサンプル。
+- [次何観よう？](https://github.com/j-ting1/to-watch)の共同リポジトリ（Issueとpull requestのサンプル）
 
 ## 5. 質問
 
