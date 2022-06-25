@@ -14,8 +14,8 @@
    1. [Issue](#i-issue-イシュー)
    2. [Pull request](#ii-pull-request-プルリクエスト)
       1. [Review](#a-review-レビュー)
-4. デモ
-5. 質問
+4. [デモ](#4-デモ)
+5. [質問](#5-質問)
 
 ## 1. VCS バージョン管理システム
 
@@ -35,6 +35,8 @@ Gitのバージョン管理対象にする**フォルダー**を指す。
 
 Google Sheetsで例えるなら：ファイル
 
+![Sheets Repository](img/sheets-repository.png)
+
 ### ii. Commit (コミット)
 
 リポジトリ内で、記録している修正を指す。
@@ -43,11 +45,15 @@ Google Sheetsで例えるなら：ファイル
 
 Google Sheetsで例えるなら：変更履歴の1レコード
 
+![Sheets Commit](img/sheets-commit.png)
+
 ### iii. Branch (ブランチ)
 
 1つのコミットに向かせる事ができる。
 
 Google Sheetsで例えるなら：該当するものがない（強いて言うなら、ファイルのコピー）
+
+![Sheets Branch](img/sheets-branch.png)
 
 ### iv. Tag (タグ)
 
@@ -90,6 +96,8 @@ Gitではないが、コミュニケーション取りやすくするために�
 上記の場合はDiscussionsを使うべき。クローズにする条件がはっきりしていないもの。
 
 Google Sheetsで例えるなら：コメント
+
+![Sheets Issue](img/sheets-issue.png)
 
 ### ii. Pull request (プルリクエスト)
 
