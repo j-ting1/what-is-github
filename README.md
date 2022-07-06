@@ -14,8 +14,9 @@
    1. [Issue](#i-issue-イシュー)
    2. [Pull request](#ii-pull-request-プルリクエスト)
       1. [Review](#a-review-レビュー)
-4. [デモ](#4-デモ)
-5. [質問](#5-質問)
+4. [著作権について](#4-著作権について)
+5. [デモ](#5-デモ)
+6. [質問](#6-質問)
 
 ## 1. VCS バージョン管理システム
 
@@ -116,11 +117,19 @@ Google Sheetsで例えるなら：該当するものがない（Google Docsな�
 
 GitHubは機能豊富なサービスだが、以上はよく使われる機能である。[GitHubのドキュメント](https://docs.github.com/ja)もあるので、知りたい方はここを参考にするのがいいでしょう。
 
-## 4. デモ
+## 4. 著作権について
+
+- プログラムは著作物（_creative work_）
+- 著作権 (_copyright_) は著作物を創作した時点で自動的に発生する
+- GitHub等で公開されただけで、許可なく使用してはいけない
+   - 使用許可 (LICENSE) の確認を必ず行う
+- GitHubに上げたコンテンツは投稿者が責任を持つ
+
+## 5. デモ
 
 - [職務経歴書](https://github.com/j-ting1/resume)
 - [次何観よう？](https://github.com/j-ting1/to-watch)の共同リポジトリ（Issueとpull requestのサンプル）
 
-## 5. 質問
+## 6. 質問
 
 以上説明したものから不明点、ここで説明していないが、GitHub、Gitの使い方について聞きたい等あれば。
