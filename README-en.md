@@ -76,27 +76,27 @@ GitHub also provides features to easily communicate with collaborators.
 
 ### i. Issue
 
-リポジトリについてコミュニケーションを取る場。
+A place to communicate with collaborators.
 
-利用例：
+Use cases:
 
-1. 1つの機能を実現するために、タスク分割し、タスク・進捗管理する
-2. 不具合発見された場合、不具合の詳細を投稿し、報告する
-3. 新しい機能の提案
+1. Work on new feature, task management
+2. Record details about bugs
+3. Suggest new features
 
-基本的に、タスクと相当するもの。Issue起票するにより、何かしらの実装を行い、クローズさせるのが一般的なフロー。
+Equivalent to a single task. A single issue usually leads to development and can be closed when the development completes.
 
-相応しくない利用例：
+Not suitable use cases:
 
-1. 質問
-2. 議論
-3. 情報共有
-4. リポジトリに直接関連しないもの
-5. 告知
+1. Question
+2. Discussion
+3. Information sharing
+4. Details unrelated from current repository
+5. Announcement
 
-上記の場合はDiscussionsを使うべき。クローズにする条件がはっきりしていないもの。
+Discussions is more suitable in 5 use cases above. Condition to close the issue isn't identified.
 
-Google Sheetsで例えるなら：コメント
+Equivalent in Google Sheets: Comment
 
 ![Sheets Issue](img/sheets-issue.png)
 
